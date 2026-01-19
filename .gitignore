@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+._*
+
+# Linux
+*~
+.directory
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+
+# Test files
+test-*.sh
+debug-*.txt
